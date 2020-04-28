@@ -2,6 +2,7 @@
 # Gradle
 # ------
 .gradle
+/gradle/wrapper
 /build
 /buildSrc/build
 /buildSrc/subprojects/*/build
@@ -15,7 +16,6 @@
 !/.idea
 /.idea/*
 /.idea/codeStyles
-!/.idea/codeStyles
 !/.idea/inspectionProfiles
 !/.idea/icon.png
 !/.idea/icon_dark.png
