@@ -1,0 +1,7 @@
+${AnsiColor.1}${AnsiBackground.233} .88888.           oo          888888ba
+${AnsiBackground.235}d8'   `88                      88    `8b
+${AnsiBackground.237}88        .d8888b. dP .d8888b. 88     88 .d8888b. .d8888b.
+${AnsiBackground.239}88   YP88 88'  `88 88 88'  `88 88     88 88'  `88 88'  `""
+${AnsiBackground.241}Y8.   .88 88.  .88 88 88.  .88 88    .8P 88.  .88 88.  ...
+${AnsiBackground.243} `88888'  `88888P8 dP `88888P8 8888888P  `88888P' `88888P'
+${AnsiBackground.DEFAULT}${AnsiColor.DEFAULT}ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
