@@ -8,7 +8,7 @@ How to use: gradle bootRun
 
 This service is using mainly the port 8081, you can change it in application.properties
 
-GET /client/v1/addClientBasic
+POST /client/v1/addClientBasic
 
 Body example:
 
@@ -45,7 +45,7 @@ DELETE /container/v1/deleteContainer/{containerId} (you can get it from createCo
 
 
 
-DELETE /client/v1/deleteClient{hostId} (you can get it from addClientBasic API from host.id or clientList API)
+DELETE /client/v1/deleteClient{hostId} (you can get it from addClientBasic API from info.id or clientList API)
 
 
 GET /container/v1/containerList
